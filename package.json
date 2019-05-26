@@ -2,7 +2,7 @@
     "name": "mweb3-demo-waves",
     "version": "0.1.0",
     "engines": {
-    "node": "10.3.0"
+    "node": "12.3.1"
     },
     "scripts": {
         "build": "webpack",
